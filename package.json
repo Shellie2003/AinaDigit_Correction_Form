@@ -2,6 +2,9 @@
   "name": "ainadigit-correction-request",
   "private": true,
   "version": "0.0.0",
+
+  "homepage": "https://Shellie2003.github.io/AinaDigit_Correction_Form",
+
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -21,3 +24,4 @@
     "vite": "^6.2.0"
   }
 }
+
